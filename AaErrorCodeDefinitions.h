@@ -49,6 +49,8 @@ enum EAaErrorInternal
     EAaErrorInternal_Recurse         = AAERROR_INTERNAL(3),   /* AaError called itself */
 
     EAaErrorInternal_Last                                /* Not usable value, let always be the last! */
+    
+    
 };
 
 /*!
